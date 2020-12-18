@@ -1,2 +1,2 @@
 # generative-visuals-go
-2D generative visuals in golang
+2D generative artsy foo in golang
